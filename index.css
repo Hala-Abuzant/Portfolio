@@ -17,7 +17,7 @@ font-family: system-ui;
     height: 55vh;
     border-radius: 2%;
     margin: auto;
-
+    
 
 }
 
@@ -28,7 +28,9 @@ font-family: system-ui;
 }
 
 .text{
+ /* min-width: 50vw; */
   padding: 2%;
+  overflow: scroll;
 }
 
 .email{
@@ -37,19 +39,21 @@ font-family: system-ui;
     font-size:medium;
 }
 
-
 .info{
     display: flex;
     flex-direction: column;
  
 }
 
-
-
 .contact{
     font-weight: bold;
     margin: 0%;
 }
+
+/* .image{
+   max-height: 50vh;
+   max-width:50vw;
+} */
 
 
 
