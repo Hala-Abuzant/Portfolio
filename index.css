@@ -1,0 +1,56 @@
+
+body{
+margin: auto;
+text-align: center;
+padding: 10%;
+background-color:black;
+opacity: 0.95;
+font-family: system-ui;
+
+}
+
+.container{
+    background-color:white;
+    text-align: center;
+    display: flex;
+    width: 70vw;
+    height: 55vh;
+    border-radius: 2%;
+    margin: auto;
+
+
+}
+
+.paragraph{
+    text-indent: initial;
+    text-align: left;
+  
+}
+
+.text{
+  padding: 2%;
+}
+
+.email{
+    text-decoration: none;
+    color: black;
+    font-size:medium;
+}
+
+
+.info{
+    display: flex;
+    flex-direction: column;
+ 
+}
+
+
+
+.contact{
+    font-weight: bold;
+    margin: 0%;
+}
+
+
+
+
